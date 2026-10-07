@@ -201,3 +201,15 @@ Here are a few screenshots exploring future use cases:
   - Data: [enriched tools](https://github.com/CardanoBlockchainInfraAlliance/developer-portal-cbia/blob/cbia-rels-compat-Ms3/src/data/builder-tools/enriched-tools.json), [curated overrides](https://github.com/CardanoBlockchainInfraAlliance/developer-portal-cbia/blob/cbia-rels-compat-Ms3/src/data/builder-tools/enriched-overrides.js) and [tracker readiness](https://github.com/CardanoBlockchainInfraAlliance/developer-portal-cbia/blob/cbia-rels-compat-Ms3/src/data/builder-tools/intersect-readiness.js)
 
 - Trait Matrix **documentation**, in the repository itself [here](https://github.com/CardanoBlockchainInfraAlliance/developer-portal-cbia/blob/cbia-rels-compat-Ms3/README.CBIA.md)
+
+## Final Milestone  - “Ms4-Report”
+
+**Acceptance criteria:** *"Project Closeout Report, including a close-out video, is according to standard and includes learnings to share with the community."*
+
+### Evidence of milestone completion
+
+- Project Completion Report https://drive.google.com/file/d/1WlNKoWBYzKNa88eIeDpq2Bhb9R4NBr8j/view?usp=sharing
+- Project Completion Video (Project links in description [including PCR with learnings]) https://youtu.be/1_wWhE-WEEY
+- Project Completion Video Tweet https://x.com/cbia_org/status/2107912809371574780
+- Our Website https://cbia.io/#projects
+
